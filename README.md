@@ -1,4 +1,3 @@
-[README (4).md](https://github.com/user-attachments/files/33786023/README.4.md)
 # AOR Investment Risk Monitor
 
 A portfolio risk reporting project built with **Snowflake SQL, Python, Snowpark, pandas, and Streamlit**. It uses public holdings and historical market prices to report fund risk, explain current portfolio risk contributions, monitor illustrative limits, and evaluate historical VaR forecasts.
